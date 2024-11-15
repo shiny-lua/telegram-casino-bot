@@ -33,8 +33,3 @@ Check [this directory](bot/locales/example) for samples. Please note that only o
 Finally, run the bot with `docker-compose up -d` command.
 
 Alternative way: you can use Systemd services, there is also an [example](casino-bot.example.service) available.
-
-## Credits to
-
-* [@Tishka17](https://t.me/Tishka17) for initial inspiration
-* [@svinerus](https://t.me/svinerus) for compact dice combination check (f6f42a841d3c1778f0e32)
